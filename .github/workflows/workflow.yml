@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - 'course_service'
+      - 'course-service'
       - '.github/workflows/workflow.yml'
       - 'docker-compose.yaml'
   workflow_dispatch:
